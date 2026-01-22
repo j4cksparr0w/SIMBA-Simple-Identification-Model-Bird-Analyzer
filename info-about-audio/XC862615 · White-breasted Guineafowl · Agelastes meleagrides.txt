@@ -1,0 +1,11 @@
+Basic data
+Recordist	
+Raphaël Jordan
+Date	2024-01-07
+Time	09:30
+Latitude	5.5981
+Longitude	-7.1097
+Location	Tabou, Bas-Sassandra District
+Country	Ivory Coast
+Elevation	180 m
+Uploaded	2024-01-19

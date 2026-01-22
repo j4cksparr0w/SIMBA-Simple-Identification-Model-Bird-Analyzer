@@ -1,0 +1,11 @@
+species_name,species_common_name,species_id,taxon_class,taxon_order,taxon_family,taxon_genus,threat_statuses,habitats,positive_observations_count,Koliko je predikcija radio
+Fulica americana,American Coot,2474393,Aves,Gruiformes,Rallidae,Fulica,LEAST_CONCERN; LEAST_CONCERN; LEAST_CONCERN; NOT_EVALUATED; LEAST_CONCERN; LEAST_CONCERN; LEAST_CONCERN; LEAST_CONCERN; LEAST_CONCERN; NOT_APPLICABLE; LEAST_CONCERN,FRESHWATER; TERRESTRIAL,1,3
+Alectoris chukar,Chukar Partridge,2474029,Aves,Galliformes,Phasianidae,Alectoris,LEAST_CONCERN; NOT_APPLICABLE; NOT_APPLICABLE,TERRESTRIAL; TERRESTRIAL; TERRESTRIAL; TERRESTRIAL,1,3
+Fulica ardesiaca,Andean Coot,2474383,Aves,Gruiformes,Rallidae,Fulica,LEAST_CONCERN; LEAST_CONCERN; LEAST_CONCERN; LEAST_CONCERN; LEAST_CONCERN; LEAST_CONCERN,,1,4
+Scleroptila levaillantii,Red-winged Francolin,2473796,Aves,Galliformes,Phasianidae,Scleroptila,LEAST_CONCERN,,1,9
+Galloperdix bicalcarata,Sri Lanka Spurfowl,2473695,Aves,Galliformes,Phasianidae,Galloperdix,LEAST_CONCERN,,1,2
+Tympanuchus cupido,Greater Prairie Chicken,2473510,Aves,Galliformes,Phasianidae,Tympanuchus,NEAR_THREATENED,TERRESTRIAL,1,9
+Polyplectron chalcurum,Bronze-tailed Peacock-Pheasant,2474084,Aves,Galliformes,Phasianidae,Polyplectron,LEAST_CONCERN,,1,7
+Micropygia schomburgkii,Ocellated Crake,2474400,Aves,Gruiformes,Rallidae,Micropygia,LEAST_CONCERN; LEAST_CONCERN; LEAST_CONCERN; LEAST_CONCERN,,1,6
+Rallina fasciata,Red-legged Crake,2474481,Aves,Gruiformes,Rallidae,Rallina,LEAST_CONCERN,,1,3
+Ithaginis cruentus,Blood Pheasant,2474060,Aves,Galliformes,Phasianidae,Ithaginis,LEAST_CONCERN,,1,2

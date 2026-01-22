@@ -1,0 +1,12 @@
+Basic data
+Recordist	
+Saswat Mishra
+Date	2020-09-12
+Time	05:00
+Latitude	20.161
+Longitude	73.0483
+Location	Surangi, Dadra and Nagar Haveli, Dadra and Nagar Haveli and Daman and Diu
+Country	India
+Elevation	400 m
+Uploaded	2021-09-04
+Last modified	2022-09-29

@@ -1,0 +1,11 @@
+Basic data
+Recordist	
+African Bioacoustics Community
+Date	2025-08-28
+Time	15:30
+Latitude	-33.9889
+Longitude	18.433
+Location	City of Cape Town (near Cape Town), City of Cape Town Metropolitan Municipality, Western Cape
+Country	South Africa
+Elevation	130 m
+Uploaded	2025-12-10
