@@ -1,9 +1,6 @@
+##  SIMBA — Simple Identification Model Bird Analyzer (ptice)
 
----
 
-## 2) SIMBA — Simple Identification Model Bird Analyzer (ptice)
-
-```md
 # SIMBA — Simple Identification Model Bird Analyzer
 
 SIMBA is a small project for working with **bird audio recordings**: uploading audio, storing it, and running a simple identification/classification workflow.  
